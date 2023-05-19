@@ -28,6 +28,8 @@ After loading the program into Nicla Voice, you would need to pipe the captured 
 
 - example: `screen -L -Logfile arduino_output.g722 /dev/tty.usbmodem00F1F5FF3 115200`
 
+3. You can stop the terminal by pressing `ctrl + A` and `ctrl + \`.
+
 ## Open the .g722 file in Audacity
 
 Using a program like Audacity, you can import the .g722 compressed file and play the audio
